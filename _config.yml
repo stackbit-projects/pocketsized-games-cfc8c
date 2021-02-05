@@ -13,7 +13,7 @@ base_font: serif
 header:
   title: DIY
   logo: images/classic/logo.svg
-  logo_alt: ''
+  logo_alt: PocketSized Games
   has_primary_nav: true
   primary_nav_links:
     - label: Features
